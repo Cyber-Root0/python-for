@@ -1,7 +1,7 @@
 
 # FATEC | Presidente Prudente 
 
-Exercicios Python Realizados no dia 16/03/2022
+Exercicios Python Realizados no dia 30/03/2022
 
 ## Feedback
 
